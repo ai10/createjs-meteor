@@ -3,6 +3,6 @@
   "description": "CreateJS packaged for Meteor",
   "homepage": "https://github.com/nrafter/meteor-createjs",
   "author": "Nick Rafter",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "git": "https://github.com/nrafter/meteor-createjs.git"
 }
