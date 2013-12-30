@@ -5,4 +5,7 @@
   "author": "Nick Rafter",
   "version": "0.1.2",
   "git": "https://github.com/nrafter/meteor-createjs.git"
+  "packages": { 
+    "jquery": "2.0.3"
+  }
 }
