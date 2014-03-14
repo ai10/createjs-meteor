@@ -1,6 +1,10 @@
 CreateJS smart package
 ====================
 
+https://github.com/nrafter/meteor-createjs
+
+renamed to createjs-meteor to follow a convention not requiring retyping 'meteor-' in order get past autocompletion.
+
 Meteor smart package for [CreateJS](http://createjs.com/), a suite of Javascript libraries & tools for building rich, interactive experiences with HTML5.
 
 Adding this package to your [Meteor](http://www.meteor.com/) application adds `createjs` object into the global scope.
